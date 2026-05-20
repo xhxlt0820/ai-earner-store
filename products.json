@@ -1,0 +1,64 @@
+{
+  "store": "AI Prompt Master Pack",
+  "url": "https://xhxlt0820.github.io/ai-earner-store/",
+  "products": [
+    {
+      "name": "Python Code Review Master",
+      "price_usd": 9.99,
+      "category": "programming"
+    },
+    {
+      "name": "SQL Query Optimizer",
+      "price_usd": 7.99,
+      "category": "programming"
+    },
+    {
+      "name": "React Component Generator",
+      "price_usd": 12.99,
+      "category": "programming"
+    },
+    {
+      "name": "API Documentation Generator",
+      "price_usd": 8.99,
+      "category": "programming"
+    },
+    {
+      "name": "AI Image Prompt Architect",
+      "price_usd": 14.99,
+      "category": "ai_ml"
+    },
+    {
+      "name": "Data Science Pipeline Builder",
+      "price_usd": 19.99,
+      "category": "ai_ml"
+    },
+    {
+      "name": "System Prompt Engineer",
+      "price_usd": 24.99,
+      "category": "ai_ml"
+    },
+    {
+      "name": "SEO Content Strategist",
+      "price_usd": 11.99,
+      "category": "business"
+    },
+    {
+      "name": "Startup Idea Validator",
+      "price_usd": 15.99,
+      "category": "business"
+    }
+  ],
+  "bundles": [
+    {
+      "name": "Programming Pack",
+      "price_usd": 29.99,
+      "savings": "25%"
+    },
+    {
+      "name": "Complete Pack (All 9)",
+      "price_usd": 59.99,
+      "savings": "53%"
+    }
+  ],
+  "payment_address": "0x1a1d74e0cf80757784e30a9e8ce15d78033c4426"
+}
